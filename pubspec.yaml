@@ -16,7 +16,7 @@ dependencies:
   flutter_chat_types:
     git:
       url: git://github.com/datasoil/flutter_chat_types
-      ref: main
+      ref: f3db584ee3efc556f76e7bd139bee5fdc5a19da6
   flutter_linkify: ^5.0.2
   html: ^0.15.0
   http: ^0.13.3
